@@ -1,0 +1,48 @@
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\bin\Debug\PCA_00.exe.config
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\bin\Debug\PCA_00.exe
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\bin\Debug\PCA_00.pdb
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.csprojResolveAssemblyReference.cache
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.Form1.resources
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.Properties.Resources.resources
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.csproj.GenerateResource.Cache
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.exe
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\obj\Debug\PCA_00.pdb
+c:\users\arif\documents\visual studio 2015\Projects\PCA_00\PCA_00\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\PCA_00.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\PCA_00.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\PCA_00.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.Form1.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.Properties.Resources.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy\PCA_00\obj\Debug\PCA_00.csproj.GenerateResource.Cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\PCA_00.exe.config
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\PCA_00.exe
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\PCA_00.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.csprojResolveAssemblyReference.cache
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.Form1.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.Properties.Resources.resources
+C:\Users\Arif\Documents\Visual Studio 2015\Projects\PCA_00 - Copy - Copy\PCA_00\obj\Debug\PCA_00.csproj.GenerateResource.Cache

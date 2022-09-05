@@ -1,0 +1,1230 @@
+
+App Start
+
+Total time elipsed :0:1:33
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+CPU Usage: 47 % in [ 10/13/2017 10:57:13 PM ]
+
+Total time ellipsed :0:0:34
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:5
+App Closed.
+
+App Start
+Avail RAM: 4.32 GB in [ 10/13/2017 11:10:09 PM ]
+Avail RAM: 4.31 GB in [ 10/13/2017 11:10:18 PM ]
+Avail RAM: 4.31 GB in [ 10/13/2017 11:10:33 PM ]
+
+Total time ellipsed :0:1:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:26
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:12
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:58
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:23
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:12
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:15
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:13
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:33
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:36
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:57
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:48
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:39
+App Closed.
+
+App Start
+CPU Usage: 62 % in [ 10/14/2017 11:00:02 AM ]
+
+Total time ellipsed :0:1:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:24
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:31
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:7
+App Closed.
+
+App Start
+Avail RAM: 4.4 GB in [ 10/14/2017 3:51:26 PM ]
+
+Total time ellipsed :0:4:27
+App Closed.
+
+App Start
+CPU Usage: 29 % in [ 10/14/2017 4:03:00 PM ]
+
+Total time ellipsed :0:7:33
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:33
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:49
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:9:26
+App Closed.
+
+App Start
+Avail RAM: 4.5 GB in [ 10/14/2017 4:44:02 PM ]
+
+Total time ellipsed :0:0:21
+App Closed.
+
+App Start
+Avail RAM: 5.68 GB in [ 10/14/2017 9:43:16 PM ]
+
+Total time ellipsed :0:10:19
+App Closed.
+
+App Start
+Avail RAM: 4.79 GB in [ 10/14/2017 9:48:24 PM ]
+
+Total time ellipsed :0:0:43
+App Closed.
+
+App Start
+Avail RAM: 4.86 GB in [ 10/14/2017 10:12:45 PM ]
+
+Total time ellipsed :0:1:39
+App Closed.
+
+App Start
+Avail RAM: 4.75 GB in [ 10/14/2017 10:15:58 PM ]
+
+Total time ellipsed :0:4:44
+App Closed.
+
+App Start
+Avail RAM: 5.31 GB in [ 10/15/2017 2:58:38 PM ]
+
+Total time ellipsed :0:1:8
+App Closed.
+
+App Start
+Avail RAM: 4.48 GB in [ 10/15/2017 10:13:19 PM ]
+CPU Usage: 51 % in [ 10/15/2017 10:13:20 PM ]
+CPU Usage: 27 % in [ 10/15/2017 10:13:31 PM ]
+
+Total time ellipsed :0:1:32
+App Closed.
+
+App Start
+CPU Usage: 46 % in [ 10/15/2017 10:27:14 PM ]
+Avail RAM: 4.38 GB in [ 10/15/2017 10:27:25 PM ]
+
+Total time ellipsed :0:1:56
+App Closed.
+
+App Start
+
+Total time ellipsed :0:3:52
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:35
+App Closed.
+
+App Start
+Avail RAM: 3.97 GB in [ 10/16/2017 2:12:34 AM ]
+
+Total time ellipsed :0:2:29
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:4:37
+App Closed.
+
+App Start
+CPU Usage: 28 % in [ 10/16/2017 8:54:00 AM ]
+Avail RAM: 4.6 GB in [ 10/16/2017 8:54:39 AM ]
+Avail RAM: 4.61 GB in [ 10/16/2017 8:54:50 AM ]
+
+Total time ellipsed :0:8:46
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:14
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:21
+App Closed.
+
+App Start
+CPU Usage: 53 % in [ 10/18/2017 12:19:19 AM ]
+CPU Usage: 64 % in [ 10/18/2017 12:19:51 AM ]
+CPU Usage: 65 % in [ 10/18/2017 12:20:03 AM ]
+
+Total time ellipsed :0:10:29
+App Closed.
+
+App Start
+CPU Usage: 76 % in [ 10/18/2017 12:22:03 AM ]
+
+Total time ellipsed :0:1:18
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:20
+App Closed.
+
+App Start
+
+Total time ellipsed :0:7:7
+App Closed.
+
+App Start
+Avail RAM: 4.66 GB in [ 10/18/2017 12:26:42 AM ]
+Avail RAM: 4.65 GB in [ 10/18/2017 12:26:49 AM ]
+Avail RAM: 4.66 GB in [ 10/18/2017 12:26:58 AM ]
+CPU Usage: 24 % in [ 10/18/2017 12:26:59 AM ]
+Avail RAM: 4.6 GB in [ 10/18/2017 12:27:05 AM ]
+Avail RAM: 4.65 GB in [ 10/18/2017 12:27:16 AM ]
+CPU Usage: 22 % in [ 10/18/2017 12:27:21 AM ]
+Avail RAM: 4.61 GB in [ 10/18/2017 12:27:23 AM ]
+CPU Usage: 37 % in [ 10/18/2017 12:27:24 AM ]
+CPU Usage: 26 % in [ 10/18/2017 12:27:28 AM ]
+
+Total time ellipsed :0:1:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+Avail RAM: 4.64 GB in [ 10/18/2017 12:32:02 AM ]
+CPU Usage: 51 % in [ 10/18/2017 12:32:03 AM ]
+Avail RAM: 4.6 GB in [ 10/18/2017 12:32:12 AM ]
+Avail RAM: 4.61 GB in [ 10/18/2017 12:32:18 AM ]
+CPU Usage: 26 % in [ 10/18/2017 12:32:21 AM ]
+Avail RAM: 4.61 GB in [ 10/18/2017 12:32:27 AM ]
+CPU Usage: 34 % in [ 10/18/2017 12:32:30 AM ]
+Avail RAM: 4.62 GB in [ 10/18/2017 12:32:36 AM ]
+CPU Usage: 26 % in [ 10/18/2017 12:32:39 AM ]
+Avail RAM: 4.59 GB in [ 10/18/2017 12:32:46 AM ]
+Avail RAM: 4.59 GB in [ 10/18/2017 12:32:52 AM ]
+Avail RAM: 4.59 GB in [ 10/18/2017 12:32:58 AM ]
+Avail RAM: 4.57 GB in [ 10/18/2017 12:33:04 AM ]
+Avail RAM: 4.56 GB in [ 10/18/2017 12:33:12 AM ]
+Avail RAM: 4.61 GB in [ 10/18/2017 12:33:20 AM ]
+Avail RAM: 4.61 GB in [ 10/18/2017 12:33:27 AM ]
+
+Total time ellipsed :0:1:31
+App Closed.
+
+App Start
+CPU Usage: 25 % in [ 10/18/2017 12:36:04 AM ]
+CPU Usage: 28 % in [ 10/18/2017 12:36:13 AM ]
+
+Total time ellipsed :0:0:41
+App Closed.
+
+App Start
+Avail RAM: 5.1 GB in [ 10/21/2017 3:35:22 PM ]
+
+Total time ellipsed :0:1:41
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:32
+App Closed.
+
+App Start
+Avail RAM: 4.89 GB in [ 10/21/2017 3:43:13 PM ]
+CPU Usage: 29 % in [ 10/21/2017 3:43:20 PM ]
+Avail RAM: 4.87 GB in [ 10/21/2017 3:43:20 PM ]
+Avail RAM: 4.87 GB in [ 10/21/2017 3:43:33 PM ]
+CPU Usage: 30 % in [ 10/21/2017 3:43:45 PM ]
+CPU Usage: 36 % in [ 10/21/2017 3:44:02 PM ]
+CPU Usage: 29 % in [ 10/21/2017 3:44:13 PM ]
+CPU Usage: 23 % in [ 10/21/2017 3:44:25 PM ]
+CPU Usage: 28 % in [ 10/21/2017 3:44:34 PM ]
+CPU Usage: 25 % in [ 10/21/2017 3:44:46 PM ]
+CPU Usage: 28 % in [ 10/21/2017 3:44:55 PM ]
+Avail RAM: 4.84 GB in [ 10/21/2017 3:45:03 PM ]
+CPU Usage: 28 % in [ 10/21/2017 3:45:09 PM ]
+Avail RAM: 4.84 GB in [ 10/21/2017 3:45:10 PM ]
+Avail RAM: 4.84 GB in [ 10/21/2017 3:45:13 PM ]
+CPU Usage: 43 % in [ 10/21/2017 3:45:14 PM ]
+CPU Usage: 32 % in [ 10/21/2017 3:45:16 PM ]
+Avail RAM: 4.84 GB in [ 10/21/2017 3:45:17 PM ]
+CPU Usage: 27 % in [ 10/21/2017 3:45:22 PM ]
+CPU Usage: 23 % in [ 10/21/2017 3:45:25 PM ]
+CPU Usage: 31 % in [ 10/21/2017 3:45:28 PM ]
+
+Total time ellipsed :0:2:25
+App Closed.
+
+App Start
+CPU Usage: 28 % in [ 10/21/2017 3:45:59 PM ]
+CPU Usage: 23 % in [ 10/21/2017 3:46:22 PM ]
+CPU Usage: 27 % in [ 10/21/2017 3:46:28 PM ]
+
+Total time ellipsed :0:0:46
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:9
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:9
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:2
+App Closed.
+
+App Start
+Avail RAM: 4.8 GB in [ 10/21/2017 3:54:34 PM ]
+Avail RAM: 4.76 GB in [ 10/21/2017 3:54:40 PM ]
+Avail RAM: 4.76 GB in [ 10/21/2017 3:54:46 PM ]
+Avail RAM: 4.76 GB in [ 10/21/2017 3:54:52 PM ]
+Avail RAM: 4.76 GB in [ 10/21/2017 3:54:58 PM ]
+
+Total time ellipsed :0:0:48
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:9
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:7
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:27
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:1
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:49
+App Closed.
+
+App Start
+
+Total time ellipsed :0:11:31
+App Closed.
+
+App Start
+
+Total time ellipsed :0:11:16
+App Closed.
+
+App Start
+
+Total time ellipsed :0:8:49
+App Closed.
+
+App Start
+
+Total time ellipsed :0:12:55
+App Closed.
+
+App Start
+Avail RAM: 3.98 GB in [ 1/21/2018 12:48:50 AM ]
+Avail RAM: 3.96 GB in [ 1/21/2018 12:48:55 AM ]
+Avail RAM: 3.91 GB in [ 1/21/2018 12:49:01 AM ]
+Avail RAM: 3.9 GB in [ 1/21/2018 12:49:07 AM ]
+
+Total time ellipsed :0:0:50
+App Closed.
+
+App Start
+Avail RAM: 4.03 GB in [ 1/21/2018 12:50:15 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:50:21 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:50:27 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:50:33 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:50:39 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:50:45 AM ]
+CPU Usage: 28 % in [ 1/21/2018 12:51:03 AM ]
+Avail RAM: 3.97 GB in [ 1/21/2018 12:51:04 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:51:13 AM ]
+Avail RAM: 3.98 GB in [ 1/21/2018 12:51:19 AM ]
+Avail RAM: 3.98 GB in [ 1/21/2018 12:51:25 AM ]
+Avail RAM: 4 GB in [ 1/21/2018 12:51:30 AM ]
+Avail RAM: 4 GB in [ 1/21/2018 12:51:32 AM ]
+Avail RAM: 4 GB in [ 1/21/2018 12:51:37 AM ]
+Avail RAM: 4 GB in [ 1/21/2018 12:51:39 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:51:41 AM ]
+Avail RAM: 3.99 GB in [ 1/21/2018 12:51:43 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:44 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:46 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:47 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:49 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:50 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:52 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:53 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:51:55 AM ]
+
+Total time ellipsed :0:2:12
+App Closed.
+
+App Start
+Avail RAM: 3.96 GB in [ 1/21/2018 12:53:03 AM ]
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:10
+App Closed.
+
+App Start
+Avail RAM: 3.96 GB in [ 1/21/2018 12:54:36 AM ]
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:3
+App Closed.
+
+App Start
+Avail RAM: 4.03 GB in [ 1/21/2018 12:56:19 AM ]
+Avail RAM: 4.04 GB in [ 1/21/2018 12:56:48 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:56:52 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:56:55 AM ]
+Avail RAM: 4.01 GB in [ 1/21/2018 12:56:58 AM ]
+
+Total time ellipsed :0:5:21
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:16
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:57
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:21
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:25
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:26
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:37
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:22
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:43
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:4
+App Closed.
+
+App Start
+Avail RAM: 4.9 GB in [ 1/23/2018 4:28:49 PM ]
+Avail RAM: 4.88 GB in [ 1/23/2018 4:28:54 PM ]
+Avail RAM: 4.86 GB in [ 1/23/2018 4:28:59 PM ]
+Avail RAM: 4.85 GB in [ 1/23/2018 4:29:04 PM ]
+CPU Usage: 27 % in [ 1/23/2018 4:29:09 PM ]
+Avail RAM: 4.86 GB in [ 1/23/2018 4:29:09 PM ]
+Avail RAM: 4.86 GB in [ 1/23/2018 4:29:17 PM ]
+CPU Usage: 43 % in [ 1/23/2018 4:29:19 PM ]
+Avail RAM: 4.86 GB in [ 1/23/2018 4:29:25 PM ]
+
+Total time ellipsed :0:1:37
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:15
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:20
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:16
+App Closed.
+
+App Start
+Avail RAM: 11.85 GB in [ 5/13/2018 4:10:37 AM ]
+
+Total time ellipsed :0:1:49
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:46
+App Closed.
+
+App Start
+
+Total time ellipsed :0:2:42
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:41
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:6
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:18
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:18
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:9
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:57
+App Closed.
+
+App Start
+CPU Usage: 61 % in [ 7/11/2018 2:41:39 AM ]
+
+Total time ellipsed :0:6:24
+App Closed.
+
+App Start
+Avail RAM: 11.91 GB in [ 1/26/2019 10:05:17 PM ]
+Avail RAM: 11.89 GB in [ 1/26/2019 10:05:23 PM ]
+Avail RAM: 11.91 GB in [ 1/26/2019 10:05:29 PM ]
+Avail RAM: 11.9 GB in [ 1/26/2019 10:05:35 PM ]
+
+Total time ellipsed :0:0:25
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:15
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:18
+App Closed.
+
+App Start
+CPU Usage: 52 % in [ 1/31/2019 1:10:06 AM ]
+CPU Usage: 72 % in [ 1/31/2019 1:10:13 AM ]
+
+Total time ellipsed :0:6:28
+App Closed.
+
+App Start
+CPU Usage: 35 % in [ 2/11/2019 10:17:48 PM ]
+CPU Usage: 35 % in [ 2/11/2019 10:17:53 PM ]
+Avail RAM: 12.04 GB in [ 2/11/2019 10:18:27 PM ]
+CPU Usage: 22 % in [ 2/11/2019 10:18:31 PM ]
+Avail RAM: 12.35 GB in [ 2/11/2019 10:18:34 PM ]
+Avail RAM: 12.4 GB in [ 2/11/2019 10:18:40 PM ]
+
+Total time ellipsed :0:26:17
+App Closed.
+
+App Start
+CPU Usage: 32 % in [ 2/27/2019 8:25:54 AM ]
+
+Total time ellipsed :0:1:2
+App Closed.
+
+App Start
+CPU Usage: 29 % in [ 2/27/2019 9:01:55 AM ]
+Avail RAM: 10.42 GB in [ 2/27/2019 9:01:55 AM ]
+Avail RAM: 10.36 GB in [ 2/27/2019 9:02:04 AM ]
+Avail RAM: 10.37 GB in [ 2/27/2019 9:02:10 AM ]
+Avail RAM: 10.38 GB in [ 2/27/2019 9:02:13 AM ]
+Avail RAM: 10.4 GB in [ 2/27/2019 9:02:16 AM ]
+Avail RAM: 10.38 GB in [ 2/27/2019 9:02:19 AM ]
+Avail RAM: 10.39 GB in [ 2/27/2019 9:02:22 AM ]
+Avail RAM: 10.44 GB in [ 2/27/2019 9:02:25 AM ]
+Avail RAM: 10.43 GB in [ 2/27/2019 9:02:28 AM ]
+Avail RAM: 10.41 GB in [ 2/27/2019 9:02:31 AM ]
+Avail RAM: 10.43 GB in [ 2/27/2019 9:02:34 AM ]
+Avail RAM: 10.43 GB in [ 2/27/2019 9:02:37 AM ]
+Avail RAM: 10.4 GB in [ 2/27/2019 9:02:40 AM ]
+Avail RAM: 10.44 GB in [ 2/27/2019 9:02:43 AM ]
+Avail RAM: 10.42 GB in [ 2/27/2019 9:02:46 AM ]
+Avail RAM: 10.53 GB in [ 2/27/2019 9:02:49 AM ]
+Avail RAM: 10.53 GB in [ 2/27/2019 9:02:52 AM ]
+Avail RAM: 10.45 GB in [ 2/27/2019 9:03:06 AM ]
+Avail RAM: 10.44 GB in [ 2/27/2019 9:03:09 AM ]
+CPU Usage: 22 % in [ 2/27/2019 9:03:10 AM ]
+Avail RAM: 10.47 GB in [ 2/27/2019 9:03:13 AM ]
+Avail RAM: 10.48 GB in [ 2/27/2019 9:03:16 AM ]
+
+Total time ellipsed :0:2:20
+App Closed.
+
+App Start
+Avail RAM: 10.47 GB in [ 2/27/2019 9:03:45 AM ]
+Avail RAM: 10.43 GB in [ 2/27/2019 9:03:51 AM ]
+
+Total time ellipsed :0:0:12
+App Closed.
+
+App Start
+CPU Usage: 28 % in [ 2/27/2019 9:22:00 AM ]
+Avail RAM: 10.8 GB in [ 2/27/2019 9:22:54 AM ]
+Avail RAM: 10.73 GB in [ 2/27/2019 9:23:00 AM ]
+
+Total time ellipsed :0:2:58
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:13
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:11
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:38
+App Closed.
+
+App Start
+CPU Usage: 100 % in [ 3/13/2019 12:25:00 PM ]
+
+Total time ellipsed :0:3:23
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:17
+App Closed.
+
+App Start
+
+Total time ellipsed :0:2:36
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:20
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:19
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:13
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:20
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:24
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:35
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:22
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:23
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:40
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:29
+App Closed.
+
+App Start
+
+Total time ellipsed :0:2:24
+App Closed.
+
+App Start
+
+Total time ellipsed :0:9:3
+App Closed.
+
+App Start
+
+Total time ellipsed :0:4:50
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:22
+App Closed.
+
+App Start
+CPU Usage: 73 % in [ 4/24/2019 11:31:38 AM ]
+CPU Usage: 81 % in [ 4/24/2019 11:32:29 AM ]
+CPU Usage: 100 % in [ 4/24/2019 11:32:55 AM ]
+CPU Usage: 84 % in [ 4/24/2019 11:33:13 AM ]
+CPU Usage: 100 % in [ 4/24/2019 11:33:17 AM ]
+
+Total time ellipsed :0:5:53
+App Closed.
+
+App Start
+Avail RAM: 10.8 GB in [ 4/24/2019 11:34:04 AM ]
+
+Total time ellipsed :0:0:21
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:18
+App Closed.
+
+App Start
+Avail RAM: 10.88 GB in [ 4/24/2019 11:38:27 AM ]
+
+Total time ellipsed :0:0:13
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:13
+App Closed.
+
+App Start
+Avail RAM: 11.21 GB in [ 4/24/2019 11:43:51 AM ]
+Avail RAM: 11.26 GB in [ 4/24/2019 11:44:59 AM ]
+Avail RAM: 11.25 GB in [ 4/24/2019 11:45:04 AM ]
+Avail RAM: 11.25 GB in [ 4/24/2019 11:45:17 AM ]
+CPU Usage: 27 % in [ 4/24/2019 11:45:25 AM ]
+Avail RAM: 11.18 GB in [ 4/24/2019 11:45:49 AM ]
+
+Total time ellipsed :0:2:47
+App Closed.
+
+App Start
+Avail RAM: 11.24 GB in [ 4/24/2019 12:05:28 PM ]
+
+Total time ellipsed :0:1:45
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:28
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:38
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:32
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:45
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:24
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:29
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:58
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:8
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:20
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:5
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:25
+App Closed.
+
+App Start
+
+Total time ellipsed :0:0:29
+App Closed.
+
+App Start
+Avail RAM: 11.1 GB in [ 4/24/2019 12:45:31 PM ]
+Avail RAM: 11.09 GB in [ 4/24/2019 12:45:37 PM ]
+
+Total time ellipsed :0:0:55
+App Closed.
+
+App Start
+
+Total time ellipsed :0:1:24
+App Closed.
+
+App Start
+Avail RAM: 10.27 GB in [ 8/1/2019 6:42:11 PM ]
+
+Total time ellipsed :0:0:51
+App Closed.
